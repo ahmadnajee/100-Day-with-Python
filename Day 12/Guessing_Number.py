@@ -49,6 +49,6 @@ def game():
             print("You have run out of guesses. You lose!!")
             return
         elif guess != answer :
-            print("Guess again")
+            print("Guess again!s")
 
 game()
