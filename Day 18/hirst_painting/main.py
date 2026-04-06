@@ -5,7 +5,7 @@ colors_list=[  (236, 224, 81), (197, 7, 72), (201, 75, 15), (113, 178, 214), (19
 turtle.colormode(255)
 timmy= turtle.Turtle()
 timmy.hideturtle()
-
+timmy.speed("fastest")
 timmy.setheading(225)
 timmy.up()
 timmy.forward(300)
