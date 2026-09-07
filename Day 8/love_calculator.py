@@ -16,4 +16,4 @@ def love_score(name1,name2):
     
     
 
-love_score("Kanye West","Kim Kardashian")
+love_score("","")
